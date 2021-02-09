@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "bookId": 1,
+            "name": "Harry Potter and the Deathly Hallows",
+            "author": "J.K. Rowling",
+            "rating": 4.62
+        },
+        {
+            "bookId": 2,
+            "name": "The Diary of a Young Girl",
+            "author": "Anne Frank",
+            "rating": 4.16
+        },
+        {
+            "bookId": 3,
+            "name": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "rating": 4.28
+        }
+    ]
+}
