@@ -1,0 +1,7 @@
+This is online book library backend
+
+Steps to run the server - 
+1) Clone the repository
+2) Navigate to online-book-library-backend folder using cd online-book-library-backend in terminal
+3) run command- num install
+4) command to start the server - npm run dev
